@@ -3,157 +3,157 @@
     "position": [
         {
             "symbol": "AMB",
-            "quote_price": "$7015576700000000",
+            "quote_price": "$7014761200000000",
             "quantity": "0.1"
         },
         {
             "symbol": "akSwap.io",
-            "quote_price": "$0.49233845",
+            "quote_price": "$0.49326536",
             "quantity": "250000.0"
         },
         {
             "symbol": "A68.net",
-            "quote_price": "$1.0966995",
+            "quote_price": "$1.0987642",
             "quantity": "93989.28"
         },
         {
             "symbol": "WxFi.io",
-            "quote_price": "$0.28160948",
+            "quote_price": "$0.28157672",
             "quantity": "300000.0"
         },
         {
             "symbol": "ETH",
-            "quote_price": "$2811.9543",
+            "quote_price": "$2817.438",
             "quantity": "17.566003397046604792"
         },
         {
             "symbol": "DAI",
-            "quote_price": "$1.0000992",
+            "quote_price": "$1.0023686",
             "quantity": "35192.070455884268201631"
         },
         {
             "symbol": "WETH",
-            "quote_price": "$2813.0317",
+            "quote_price": "$2813.595",
             "quantity": "2.0"
         },
         {
             "symbol": "UNI",
-            "quote_price": "$7.603917",
+            "quote_price": "$7.60664",
             "quantity": "401.235"
         },
         {
             "symbol": "USDC",
-            "quote_price": "$0.996628",
+            "quote_price": "$0.9977315",
             "quantity": "2442.168195"
         },
         {
             "symbol": "PAN",
-            "quote_price": "$0.057853796",
+            "quote_price": "$0.057962716",
             "quantity": "34580.9697428452605"
         },
         {
             "symbol": "BRIGHT",
-            "quote_price": "$0.24182886",
+            "quote_price": "$0.24382982",
             "quantity": "5704.0"
         },
         {
             "symbol": "USDT",
-            "quote_price": "$1.000485",
+            "quote_price": "$1.0015957",
             "quantity": "1034.145"
         },
         {
             "symbol": "MATIC",
-            "quote_price": "$1.1428052",
+            "quote_price": "$1.1407062",
             "quantity": "49.64"
         },
         {
             "symbol": "FOX",
-            "quote_price": "$0.2695987",
+            "quote_price": "$0.26879603",
             "quantity": "200.0"
         },
         {
             "symbol": "LDO",
-            "quote_price": "$3.1715448",
+            "quote_price": "$3.1485345",
             "quantity": "17.0"
         },
         {
             "symbol": "LPT",
-            "quote_price": "$23.32472",
+            "quote_price": "$23.30504",
             "quantity": "2.10055409792880949"
         },
         {
             "symbol": "TUSD",
-            "quote_price": "$1.0020278",
+            "quote_price": "$1.0011399",
             "quantity": "43.67055"
         },
         {
             "symbol": "BAT",
-            "quote_price": "$0.6263637",
+            "quote_price": "$0.62629086",
             "quantity": "64.25"
         },
         {
             "symbol": "UBI",
-            "quote_price": "$0.027820153",
+            "quote_price": "$0.02782871",
             "quantity": "1000.0"
         },
         {
             "symbol": "AVO",
-            "quote_price": "$2.0943988e-7",
+            "quote_price": "$2.0983418e-7",
             "quantity": "100000000.0"
         },
         {
             "symbol": "bBADGER",
-            "quote_price": "$10.162597",
+            "quote_price": "$10.038755",
             "quantity": "1.430456828315732802"
         },
         {
             "symbol": "DIA",
-            "quote_price": "$0.7964539",
+            "quote_price": "$0.7959756",
             "quantity": "6.65"
         },
         {
             "symbol": "sUSD",
-            "quote_price": "$0.981586",
+            "quote_price": "$0.9845933",
             "quantity": "4.75"
         },
         {
             "symbol": "SUSHI",
-            "quote_price": "$2.6967583",
+            "quote_price": "$2.707245",
             "quantity": "0.95"
         },
         {
             "symbol": "LINK",
-            "quote_price": "$11.9695635",
+            "quote_price": "$11.945729",
             "quantity": "0.171"
         },
         {
             "symbol": "MASK",
-            "quote_price": "$4.092963",
+            "quote_price": "$4.053139",
             "quantity": "0.2375"
         },
         {
             "symbol": "KEEP",
-            "quote_price": "$0.45318806",
+            "quote_price": "$0.45159277",
             "quantity": "0.95"
         },
         {
             "symbol": "RDN",
-            "quote_price": "$0.1770326",
+            "quote_price": "$0.18857202",
             "quantity": "1.425"
         },
         {
             "symbol": "ZKS",
-            "quote_price": "$0.101822674",
+            "quote_price": "$0.101425186",
             "quantity": "1.9"
         },
         {
             "symbol": "HAKKA",
-            "quote_price": "$0.004104688",
+            "quote_price": "$0.0041063875",
             "quantity": "45.0"
         },
         {
             "symbol": "ERC20",
-            "quote_price": "$0.015952758",
+            "quote_price": "$0.015950905",
             "quantity": "0.99"
         },
         {
@@ -168,7 +168,7 @@
         },
         {
             "symbol": "FREE",
-            "quote_price": "$4.6283034e-7",
+            "quote_price": "$4.250599e-7",
             "quantity": "140.0"
         },
         {
@@ -203,12 +203,12 @@
         },
         {
             "symbol": "SAI",
-            "quote_price": "$0.6749609",
+            "quote_price": "$0.6748825",
             "quantity": "0.0"
         },
         {
             "symbol": "STT",
-            "quote_price": "$0.000040020077",
+            "quote_price": "$0.000040015424",
             "quantity": "8.8888888"
         },
         {
@@ -218,12 +218,12 @@
         },
         {
             "symbol": "EBK",
-            "quote_price": "$0.00047231835",
+            "quote_price": "$0.00047226343",
             "quantity": "3.446592266910605872"
         },
         {
             "symbol": "ENS",
-            "quote_price": "$16.206776",
+            "quote_price": "$16.268202",
             "quantity": "0.0"
         },
         {
@@ -243,7 +243,7 @@
         },
         {
             "symbol": "GTC",
-            "quote_price": "$5.1763716",
+            "quote_price": "$5.1561017",
             "quantity": "0.0"
         },
         {
@@ -253,7 +253,7 @@
         },
         {
             "symbol": "GSE",
-            "quote_price": "$0.000048172926",
+            "quote_price": "$0.00004812876",
             "quantity": "9.0"
         },
         {
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "GRC",
-            "quote_price": "$61.711845",
+            "quote_price": "$61.82803",
             "quantity": "0"
         },
         {
