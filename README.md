@@ -8,6 +8,8 @@ Problem Statement: [https://github.com/wealthica/trial-task](https://github.com/
 
 [Demo Video](https://drive.google.com/file/d/1AR44tKEsCS38KkAP-9xIQT0z7XtbZxSx/view?usp=sharing)
 
+- Checkout [output.json](output.json) file for sample output.
+
 ## Tools Used
 
 - [Ether.js](https://docs.ethers.io/v5/) - To get the account balance for wallet address. I prefer Ethers.js because it is smaller, well-proven, well-documented, well-maintained, and less bug-ridden in comparison to the other libraries like web3.js.
