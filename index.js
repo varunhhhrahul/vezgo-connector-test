@@ -29,7 +29,7 @@ const main = async () => {
 };
 
 main().then((response) => {
-  console.log(res);
+  console.log("DATA", JSON.stringify(response, null, 4));
 
-  fs.writeFileSync("output.json", JSON.stringify(res, null, 4));
+  fs.writeFileSync("output.json", JSON.stringify(response, null, 4));
 });
